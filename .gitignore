@@ -1,0 +1,8 @@
+CMakeCache.txt
+*~
+CMakeFiles
+*.o
+Makefile
+libfuture.*
+cmake_install*
+test
